@@ -7,7 +7,7 @@ This is a simple "Hello, World!" program written in the Rust programming languag
 The purpose of this software is to take the first step in learning Rust by understanding its syntax, development workflow, and how to create and execute a basic program.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=i3fPTcpXYrY)
 
 # Development Environment
 
